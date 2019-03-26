@@ -23,7 +23,7 @@
         <module>springcloud-service-hi</module>
         <module>service-ribbon</module>
         <module>service-feign</module>
-        <module>config-server</module>
+        <module>service-zuul</module>
     </modules>
 
     <!-- 属性 -->
